@@ -1,0 +1,3 @@
+2025-04-24 16:10:24 - INFO - file created
+2025-04-24 16:10:24 - WARNING - Storage is running out!
+2025-04-24 16:10:24 - ERROR - Failed to fetch
