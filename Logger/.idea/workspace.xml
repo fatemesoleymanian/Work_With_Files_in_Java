@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ad44067-f0a3-4352-8163-55c90b99c305" name="Changes" comment="" />
+    <list default="true" id="4ad44067-f0a3-4352-8163-55c90b99c305" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CSVProcessor/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSVProcessor/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSVProcessor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSVProcessor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConfigFiles/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigFiles/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConfigFiles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigFiles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConfigFiles/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigFiles/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoteBook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NoteBook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Serialization/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Serialization/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Serialization/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Serialization/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fileHndling/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fileHndling/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fileHndling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fileHndling/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +55,7 @@
       <updated>1745490866478</updated>
       <workItem from="1745490868048" duration="12987000" />
       <workItem from="1745729232369" duration="627000" />
+      <workItem from="1746088744727" duration="648000" />
     </task>
     <servers />
   </component>
